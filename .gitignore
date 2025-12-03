@@ -1,0 +1,37 @@
+# --- Carpetas grandes ---
+venv/
+data/
+results/
+models/
+
+# --- Archivos de configuración ---
+config.pkl
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Cache Python ---
+__pycache__/
+*.pyc
+
+# --- Modelos y arrays pesados ---
+*.pkl
+*.npz
+*.npy
+*.h5
+*.pt
+*.pth
+*.joblib
+
+# --- Imágenes y datasets ---
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.zip
+
+# --- VSCode ---
+.vscode/
+
+# --- macOS ---
+.DS_Store

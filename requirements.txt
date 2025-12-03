@@ -1,0 +1,34 @@
+# Dependencias principales para análisis de imágenes médicas
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scipy>=1.7.0
+
+# Procesamiento de imágenes
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+Pillow>=8.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Deep Learning (opcional para la parte 3)
+tensorflow>=2.8.0
+# O alternativamente: torch>=1.10.0 torchvision>=0.11.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilidades
+tqdm>=4.62.0
+pathlib2>=2.3.0
+
+# Visualización avanzada
+plotly>=5.0.0
+
+# Para descarga de datos de Kaggle
+kaggle>=1.5.0
+kagglehub>=0.2.0
